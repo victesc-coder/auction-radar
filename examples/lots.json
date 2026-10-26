@@ -1,0 +1,15 @@
+[
+  {
+    "source": "demonstracao",
+    "lot_id": "DEMO-001",
+    "title": "Veículo fictício para validar os cálculos",
+    "url": "https://example.com/lotes/DEMO-001",
+    "state": "SP",
+    "city": "São Paulo",
+    "auction_at": "2026-10-28T10:00:00-03:00",
+    "bid": "50000.00",
+    "resale_estimate": "80000.00",
+    "additional_costs": "10000.00",
+    "commission_rate": "0.05"
+  }
+]
